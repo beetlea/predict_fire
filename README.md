@@ -6,7 +6,7 @@ python 3.6
 cv2
 keras
 numpy
-Для теста запустите python predict.py. 
+Распакуйте модель в папку со скриптом predict.py и запустите python predict.py. 
 
 <h3>ОБУЧЕНИЕ</h3>
 Понадобятся следующие зависимости:
@@ -15,4 +15,4 @@ cv2
 keras
 numpy
 Для обучения не забудьте собрать датасет.
-Для обучения запустите python fin_fire.py
+Для обучения запустите python find_fire.py
